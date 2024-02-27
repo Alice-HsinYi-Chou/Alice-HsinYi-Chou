@@ -6,8 +6,9 @@
 
 ## Intro
 #### ME 
-A human being with 24y of life experiences and wisdom that she barely recalls half of it. The glass is half full. Try to treasure life with good intentions, on-point skills and wholesome people. Perhaps by the time I get knocked out by it, dignity and contentment are on my side. (Hopefully,some cherished memories and luaghters are on your side.) Before that, I’m always a work in progress.
-
+A human being with 24y of life experiences and wisdom that she barely recalls half of them. The glass is half full...right?
+Try to treasure life with good intentions, on-point skills and wholesome people. Perhaps by the time I get knocked out by it, dignity and contentment are on my side. (Hopefully, some cherished memories and luaghters accompany you) 
+Before that, I’m always a work in progress.
 Guidance and support are very welcomed (tbh, NEEDED).  
 
 #### My Extension
@@ -22,8 +23,9 @@ Overall, I’m so grateful that as physio that we can peek into different stages
 ## Physical Therapy 
 #### Education
 - Doctor of Physical Therapy | National Taiwan University, 2024 Jan
+
   台灣大學物理治療學士|六年制| 
-## Intern experiecnes 
+#### Placements
 - National Taiwan University Hospital
   #### Division of Physical Therapy [Department of PM&R]
        - Neural inpatients & outpatients
@@ -50,8 +52,8 @@ Overall, I’m so grateful that as physio that we can peek into different stages
 - A sense of humor and mischievous deeds are essential.
 - A kind and genuine smile is my favorite thing about any human being.
 If you know what these passages entail, you’re one of the lucky ones. 
-#### low-key passions
-- obsess with free entry, open and inclusive space
+#### Low-key passion
+- Obsess with free entry, open and inclusive space
 - House design [structure and decoration]
 
 
