@@ -103,11 +103,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-academia-master
+theme: academia
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://alice-hsinyi-chou.github.io/Alice-HsinYi-Chou/
+  repo: git@github.com:Alice-HsinYi-Chou/Alice-HsinYi-Chou.git
   branch: master
