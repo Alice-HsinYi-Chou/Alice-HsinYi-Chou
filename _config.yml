@@ -110,5 +110,5 @@ theme: academia
 deploy:
   type: git
   repo: 
-       git@github.com:Alice-HsinYi-Chou/Alice-HsinYi-Chou.git
+        https://github.com/Alice-HsinYi-Chou/Alice-HsinYi-Chou.git
   branch: master
