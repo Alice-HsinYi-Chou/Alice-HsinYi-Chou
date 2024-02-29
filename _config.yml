@@ -109,5 +109,6 @@ theme: academia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Alice-HsinYi-Chou/Alice-HsinYi-Chou.git
+  repo: 
+       git@github.com:Alice-HsinYi-Chou/Alice-HsinYi-Chou.git
   branch: master
